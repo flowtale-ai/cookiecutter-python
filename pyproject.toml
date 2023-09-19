@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cookiecutter-python"
-version = "0.1.0"
+version = "0.2.0"
 description = "Opinionated cookiecutter for python projects"
 authors = ["Simone Gaiarin <simone.gaiarin@trovaprezzi.it>"]
 readme = "README.md"
@@ -19,7 +19,7 @@ black = "^22.12.0"
 isort = "^5.11.2"
 pre-commit = "^2.20.0"
 flake8 = "^6.0.0"
-pytest-copier = "^0.1.0"
+pytest-copier = "^0.2.0"
 
 [build-system]
 requires = ["poetry-core"]
